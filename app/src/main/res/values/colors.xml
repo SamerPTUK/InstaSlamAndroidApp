@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#005488</color>
+    <color name="colorPrimaryDark">#004B7A</color>
+    <color name="colorAccent">#7ED321</color>
+
+    <color name="bg_feed">#d50060</color>
+    <color name="bg_home">#00c8aa</color>
+    <color name="bg_profile">#f0f800</color>
+    <color name="bg_search">#1ee100</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+</resources>
